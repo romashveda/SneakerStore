@@ -1,0 +1,68 @@
+.maincont{
+    width:222px;
+    height: 250px;
+    float: left;
+    margin: 0 20px;
+}
+.maincont a{
+    text-decoration: none;
+}
+.upcont{
+    width: 220px;
+    height: 160px;
+}
+
+.upcont img{
+    width: 220px;
+    height: 160px;
+}
+
+.middlecont{
+    margin: 5px 0 0 10px;
+    width: 80px;
+    height: 25px;
+}
+
+.block{
+
+    background: #20B2AA;
+    text-align: center;
+    color: snow;
+    z-index: 1000;
+    font-size: 12pt;
+    font-family: tahoma;
+    position: relative;
+    bottom: 25px;
+}
+.triangle{
+    width: 10px;
+    height: 10px;
+    transform: rotate(45deg);
+    background: #20B2AA;
+    position: relative;
+    left: 10px;
+    bottom: 30px;
+}
+
+.downcont{
+    width: 222px;
+    height: 70px;
+    font-size: 12pt;
+    color: black;
+    position: relative;
+    bottom: 25px;
+}
+
+.brand{
+    height: 20px;
+    text-align: center;
+}
+
+.model{
+    height: 30px;
+    text-align: center;
+}
+.price{
+    font-weight: bolder;
+    text-align: center;
+}

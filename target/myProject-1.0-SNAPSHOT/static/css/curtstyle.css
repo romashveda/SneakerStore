@@ -1,0 +1,34 @@
+.mytable{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.width45{
+    width: 45%;
+}
+
+.width20{
+    width: 20%;
+}
+
+.width25{
+    width: 25%;
+}
+
+.width10{
+    width: 10%;
+}
+
+.avatar{
+    width: 240px;
+    height: 180px;
+}
+
+.descr{
+    text-align: left;
+}
+.but{
+    color: white;
+    text-decoration: none;
+
+}

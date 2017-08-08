@@ -1,0 +1,63 @@
+.singleprod{
+    border: 1px solid grey;
+    width: 1000px;
+    height: 500px;
+    margin: 20px auto;
+
+}
+
+.sneakerpic{
+    float: left;
+    width: 69.8%;
+    height: 100%;
+}
+
+.sidebar{
+    float: left;
+    width: 30%;
+    border-left: 1px solid grey;
+    height: 100%;
+}
+
+.title{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 300;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+
+.mainImage{
+    width: 70%;
+    margin: auto;
+}
+
+.logo-div{
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+
+.price-div{
+    padding: 50px 0;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    color: brown;
+    font-weight: 900;
+    font-family: arial;
+    font-size: 22pt;
+}
+
+.add-curt{
+    text-align: center;
+    padding: 30px 0;
+    background: brown;
+    color: aliceblue;
+    font-size: 22pt;
+    font-family: tahoma;
+    width: 100%;
+}
+
+.add-curt-a{
+    text-decoration: none;
+}
