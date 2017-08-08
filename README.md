@@ -1,6 +1,7 @@
 # SneakerStore
 
 Online shop run by Tomcat server. Login/Registration form with REST. Functional of searching products and adding to shoping curt.
+Admin: adding and editing products, orders information of all users, possibility to ban a user or change his authority.
 
 # Built with:
 - Intellij IDEA
