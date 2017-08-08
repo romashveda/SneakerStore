@@ -16,6 +16,7 @@ Online shop run by Tomcat server. Login/Registration form with REST. Functional 
 - Spring Validation
 - Spring Data Repository
 - Apache Tomcat webserver
+- JavaMailSender
 - HTML
 - CSS
 - Bootstrap
